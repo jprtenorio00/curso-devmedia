@@ -34,9 +34,9 @@ Exemplo de utilização:
 
 ```
 <head>
-  <title>Página do Burnes - Home</title>
+  <title>Página do Tenório - Home</title>
   <meta charset="utf-8">
-  <meta name="description" content="Página do Burnes sobre HTML e CSS">
+  <meta name="description" content="Página do Tenório sobre HTML e CSS">
   <meta name="keywords" content="html, css, js, site">
   <meta name="robots" content="index">
 </head>
