@@ -75,7 +75,7 @@ Exemplo de utilização:
 ```
 <body>
   <header>
-    <h1>Página do Burnes</h1>
+    <h1>Página do Tenório</h1>
   </header>
   <nav>
     <a href="index.html" title="Home">Home</a>
