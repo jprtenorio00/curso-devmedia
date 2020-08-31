@@ -1,0 +1,212 @@
+# Rolagem do fundo / Marca d'água 
+background-attachment
+
+# Imagem de fundo 
+background-image
+
+# Cor de fundo ou transparência 
+background-color
+
+# Posicionamento da imagem de fundo 
+background-position
+
+# Configuração lado-a-lado da imagem de fundo 
+background-repeat
+
+# Largura, estilo e cor de todas as 4 bordas 
+border
+
+# Largura, estilo e cor da borda inferior 
+border-bottom
+
+# Cor da citada borda 
+border-bottom-color
+
+# Estilo da citada borda 
+border-bottom-style
+
+# Largura da citada borda 
+border-bottom-width
+
+# Cor das 4 bordas 
+border-color
+
+# Largura, estilo e cor da borda esquerda 
+border-left
+
+# Cor da borda citada 
+border-left-color
+
+# Estilo da borda citada
+border-left-style
+
+# Largura da borda citada
+border-left-width
+
+# Largura, estilo e cor da borda direita 
+border-right
+
+# Cor da borda citada 
+border-right-color
+
+# Estilo da borda citada
+border-right-style
+
+# Largura da borda citada
+border-right-width
+
+# Estilo de todas as 4 bordas
+border-style
+
+# Largura, estilo e cor da borda superior 
+border-top
+
+# Cor da borda citada 
+border-top-color
+
+# Estilo da borda citada
+border-top-style
+
+# Largura da borda citada
+border-top-width
+
+# Largura de todas as 4 bordas
+border-width
+
+# Elementos flutuantes à esquerda ou à direita de um elemento
+clear
+
+# Parte visível de um elemento
+clip
+
+# Cor de primeiro plano
+color
+
+# Tipo de ponteiro do mouse
+cursor
+
+# Se o elemento é exibido e o espaço é reservado para ele
+display
+
+# Tipo de filtro aplicado ao elemento
+filter
+
+# Se o elemento flutua
+float
+
+# Estilo, variante, peso, tamanho e altura da linha do tipo de fonte
+font
+
+# Incorporação da fonte ao arquivo HTML
+@font-face
+
+# Tipo de fonte
+font-family
+
+# Tamanho da fonte
+font-size
+
+# Fonte itálico
+font-style
+
+# Fonte bold
+font-variant
+
+# Peso da fonte de claro a negrito
+font-weight
+
+# Altura exibida ao elemento
+height
+
+# Folha de estilo a importar
+@import
+
+# Posição do elemento em relação a margem esquerda da página
+left
+
+# Distância entre as letras
+letter-spacing
+
+# Distância entre linhas de base
+line-height
+
+# Tipo, imagem e posição do estilo da lista
+list-style
+
+# Marcador de item de lista
+list-style-image
+
+# Posição do marcador de item da lista
+list-style-position
+
+# Marcador de item de lista alternativo
+list-style-type
+
+# Tamanho de todas as 4 margens
+margin
+
+# Tamanho da margem esquerda
+margin-left
+
+# Tamanho da margem direita
+margin-right
+
+# Tamanho da margem inferior
+margin-bottom
+
+# Tamanho da margem superior
+margin-top
+
+# Exibição de imagens que são maiores do que suas molduras
+overflow
+
+# Espaço em torno de um elemento de todos os lados
+padding
+
+# Espaço a partir da margem inferior de um elemento
+padding-bottom
+
+# Espaço à esquerda do elemento
+padding-left
+
+# Espaço à direita do elemento
+padding-right
+
+# Espaço a partir da margem superior do elemento
+padding-top
+
+# Inserir quebra de página depois de um elemento
+page-break-after
+
+# Inserir quebra de página antes de um elemento
+page-break-before
+
+# Como o elemento é posicionado na página
+position
+
+# Alinhamento do texto
+text-align
+
+# Sublinhado, sobrelinhado ou riscado
+text-decoration
+
+# Recuo da primeira linha do parágrafo
+text-indent
+
+# Transforamção para todas maiúsculas, minúsculas ou inicial maiúscula
+text-transform
+
+# Posição do elemento em relação a parte superior da página
+top
+
+# Alinhamento vertical do elemento
+vertical-aligN
+
+# Se elemento é visível ou invisível
+visibility
+
+# Largura do elemento
+width
+
+# Posição do elemento na pilha
+z-index

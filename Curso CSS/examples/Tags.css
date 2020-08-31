@@ -1,0 +1,81 @@
+/* 
+    Peso:
+    1. Tipo (p)
+    10. Classe ou atributo (.)
+    100. Id (#)
+*/
+
+/* Seletor global */
+* {
+    color:blue;
+}
+
+/* Seletor de tipo */
+p {
+    color: red;
+}
+
+/* Seletor de classe */
+/* <p class="cor-azul></p> */
+.cor-azul { 
+    color: blue;
+}
+/* <p class="cor-azul cor-claro></p> */
+.cor-azul.cor-claro {
+    color: lightblue;
+}
+/*  
+    <div class="cor-claro">
+        <p>Texto</p>
+        <div class="cor-azul">
+            <p>Texto 2</p>
+        </div>
+        <p>Texto 3</p>
+    </div> 
+*/
+.cor-claro .cor-azul {
+    color: lightblue;
+}
+
+/* Seletor de id */
+#cor-azul {
+    color: green;
+}
+
+/* Seletor de atributo */
+[href="cursos"] {
+    color: black;
+}
+
+/* Grupo de seletores*/
+p, a {
+    color: violet;
+}
+
+/* Grupo de combinadores */
+p a {
+    color: white;
+}
+
+/* Child selector */
+p > a {
+    color: yellowgreen;
+}
+
+/* Adjacent sibling selector */
+p + a {
+    color: turquoise;
+}
+
+/* General sibling selector */
+p ~ a {
+    color: aqua;
+}
+
+/* Cascata */
+p { color: blue; }
+p { background-color: red; }
+
+/* Cascata (Vai ficar vermelho) */
+p { color: blue; }
+p { color: red; }

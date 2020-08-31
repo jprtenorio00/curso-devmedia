@@ -1,6 +1,6 @@
-# Dev Media - Cursos
+# DevMedia - Cursos
 ###### Repositório destinado aos cursos da plataforma Dev Media.
 
 ## Cursos:
-###### HTML
-###### CSS
+###### 1. HTML
+###### 2. CSS
