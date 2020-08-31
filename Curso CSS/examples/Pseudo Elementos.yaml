@@ -1,0 +1,17 @@
+# Sintaxe global
+[seletor]::pseudo-elemento { propriedade : valor; }
+
+# Customizar o conteúdo na primeira linha de um elemento
+p::first-line { font-size: 16px; }
+
+# Customizar a primeira letra do conteúdo de um elemento
+p::first-letter { color: red; font-size: 32px }
+
+# Cria um falso elemento que permite adicionar conteúdo antes do original
+div::before { content: "coloque aqui seu texto"; color: blue; }
+
+# Cria um falso elemento que permite adicionar conteúdo depois do original
+div::after { content: "coloque aqui seu texto"; color: red; }
+
+# Customizar algumas propriedades dessa área, como cor de fundo e do texto
+p::selection { color: red; }

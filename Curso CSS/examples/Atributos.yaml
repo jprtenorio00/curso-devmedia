@@ -100,6 +100,12 @@ font
 # Incorporação da fonte ao arquivo HTML
 @font-face
 
+@font-face {
+    font-family: "Raleway Especial";
+    src: local(Raleway), url(../fonts/Raleway-Normal.ttf);
+    font-weight: 600;
+}
+
 # Tipo de fonte
 font-family
 
