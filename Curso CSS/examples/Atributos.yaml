@@ -13,6 +13,18 @@ background-position
 # Configuração lado-a-lado da imagem de fundo 
 background-repeat
 
+# Tamanho da imagem de fundo
+background-size
+
+# Escolher a posição em que a imagem será inserida
+background-origin
+
+# Selecionar a área do background que será pintada
+background-clip
+
+# Atribuir efeitos pré-definidos às imagens e cores de fundo
+background-blend-mode
+
 # Largura, estilo e cor de todas as 4 bordas 
 border
 
@@ -72,6 +84,9 @@ border-top-width
 
 # Largura de todas as 4 bordas
 border-width
+
+# Adicionar sombra a caixa (box)
+box-shadow
 
 # Elementos flutuantes à esquerda ou à direita de um elemento
 clear
@@ -201,6 +216,9 @@ text-indent
 
 # Transforamção para todas maiúsculas, minúsculas ou inicial maiúscula
 text-transform
+
+# Transformar o texto original com uma sombra atrás
+text-shadow
 
 # Posição do elemento em relação a parte superior da página
 top
