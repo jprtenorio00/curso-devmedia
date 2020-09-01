@@ -1,0 +1,6 @@
+blockquote {
+    display: inline;
+    font-style: italic;
+    background: #eee;
+    font-size: 24px;
+}

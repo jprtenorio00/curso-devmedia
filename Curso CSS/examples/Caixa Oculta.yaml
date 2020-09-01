@@ -1,0 +1,15 @@
+# Elemento visível
+visibility: visible;
+
+# Elemento escondido
+visibility: hidden;
+
+# Começar na mesma linha
+display: inline;
+h3, blockquote, p { display: inline; }
+
+# Começar em uma nova linha
+display: block;
+
+# Causar sensação que o elemento foi removido da página
+display: none;
