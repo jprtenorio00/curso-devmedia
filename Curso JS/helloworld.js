@@ -1,3 +1,7 @@
-var idade = 20;
-idade = 20 + " anos";
-console.log(idade);
+let nome = null;
+
+function ImprimeTotalLetrasNome(nome) {
+    console.log(nome.length);
+}
+
+ImprimeTotalLetrasNome(nome);
